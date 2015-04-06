@@ -8,4 +8,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick and simple.
 add merge
-add merge fast quick and branch master
+add merge fast quick and branch master no add merge fast quick
+
